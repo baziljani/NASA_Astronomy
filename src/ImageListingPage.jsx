@@ -49,7 +49,7 @@ function ImageListingPage() {
     <div className="container">
           <h1 className="head">🪐 Welcome to the NASA Astronomy Gallery</h1>
           <p className="para">
-            The 100 best images from NASA as captured and selected by the NASA Headquarters Photo team.
+            The 100 best images from NASA Team as captured and selected by the NASA Headquarters Photo team.
           </p>
 
       <div >
